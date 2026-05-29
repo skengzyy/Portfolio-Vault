@@ -1,0 +1,74 @@
+[
+  {
+    "id": "horizon-drift",
+    "title": "Horizon Drift",
+    "filename": "mountains-sunset-clean-skyline.mp4",
+    "videoUrl": "/vids/mountains-sunset-clean-skyline.mp4",
+    "category": "Cinematic",
+    "description": "An aesthetic study of light and scale in mountainous terrain, capturing slow-moving sunset dynamics and long-range horizons.",
+    "tags": ["landscape", "lighting", "ambient", "4k"],
+    "date": "2026-05",
+    "featured": true,
+    "size": "25.4 MB"
+  },
+  {
+    "id": "neon-chase",
+    "title": "Neon Chase",
+    "filename": "Car_driving_1.mp4",
+    "videoUrl": "/vids/Car_driving_1.mp4",
+    "category": "Action",
+    "description": "A high-speed vehicular odyssey through simulated urban grid systems, focusing on low-light reflections and motion blur.",
+    "tags": ["motion", "cyberpunk", "reflections", "car"],
+    "date": "2026-04",
+    "featured": true,
+    "size": "17.4 MB"
+  },
+  {
+    "id": "3xhit-motion",
+    "title": "3xHit Motion System",
+    "filename": "3xHIT_MEDT_AE-UE1.mp4",
+    "videoUrl": "/vids/3xHIT_MEDT_AE-UE1.mp4",
+    "category": "Experimental",
+    "description": "A dynamic motion design showcase featuring complex After Effects animations, seamless transitions, and vector transformations.",
+    "tags": ["after-effects", "vector", "kinetic", "showreel"],
+    "date": "2026-03",
+    "featured": false,
+    "size": "15.8 MB"
+  },
+  {
+    "id": "alleywalk",
+    "title": "Alleywalk",
+    "filename": "Walking in an Alley_small_1.mp4",
+    "videoUrl": "/vids/Walking in an Alley_small_1.mp4",
+    "category": "Cinematic",
+    "description": "First-person narrative walk through a hyper-detailed atmospheric alleyway, exploring cinematic suspense and shadow play.",
+    "tags": ["pov", "suspense", "lighting", "atmosphere"],
+    "date": "2026-02",
+    "featured": true,
+    "size": "9.5 MB"
+  },
+  {
+    "id": "morphing-bounds",
+    "title": "Morphing Bounds",
+    "filename": "Jerryson_ShapeLayerAnimationGK.mp4",
+    "videoUrl": "/vids/Jerryson_ShapeLayerAnimationGK.mp4",
+    "category": "Animation",
+    "description": "Exploration of morphing shape layers and kinetic geometry, focusing on elastic interpolation and smooth easing profiles.",
+    "tags": ["shapes", "geometry", "easing", "kinetic"],
+    "date": "2026-01",
+    "featured": false,
+    "size": "3.1 MB"
+  },
+  {
+    "id": "loading-sequence",
+    "title": "Ladebalken Loading Sequence",
+    "filename": "LadeBalken_Jerryson.mp4",
+    "videoUrl": "/vids/LadeBalken_Jerryson.mp4",
+    "category": "Interface",
+    "description": "A premium monospaced UI loading sequence designed to simulate high-performance kernel booting with elastic load percentages.",
+    "tags": ["ui", "loading", "terminal", "boot"],
+    "date": "2025-12",
+    "featured": false,
+    "size": "0.9 MB"
+  }
+]

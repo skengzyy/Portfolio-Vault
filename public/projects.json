@@ -1,0 +1,80 @@
+[
+  {
+    "id": "codesphere",
+    "title": "CodeSphere",
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "description": "A curated ecosystem of sleek web applications, visual tools, and high-performance interactive pages that showcase front-end creativity.",
+    "tags": ["React", "CSS Art", "Creative UI", "Performance"],
+    "github": "https://github.com/skengzyy/CodeSphere",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/CodeSphere?embed=1&theme=dark&view=preview&hideExplorer=1",
+    "linesOfCode": "4,210",
+    "commits": "18",
+    "archType": "Single Page Application",
+    "cloneCmd": "git clone https://github.com/skengzyy/CodeSphere.git"
+  },
+  {
+    "id": "dezsys-grpc",
+    "title": "gRPC Data Warehouse",
+    "languages": ["TypeScript", "Java", "HTML"],
+    "description": "Enterprise-grade gRPC synchronizer and microservices streaming pipeline built for high-throughput transactional database replication.",
+    "tags": ["gRPC", "Protocol Buffers", "Distributed Ledger", "Sync Pipeline"],
+    "github": "https://github.com/skengzyy/DEZSYS_GK72_DATAWAREHOUSE_GRPC",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/DEZSYS_GK72_DATAWAREHOUSE_GRPC?embed=1&theme=dark&view=editor",
+    "linesOfCode": "12,850",
+    "commits": "34",
+    "archType": "Distributed RPC Pipeline",
+    "cloneCmd": "git clone https://github.com/skengzyy/DEZSYS_GK72_DATAWAREHOUSE_GRPC.git"
+  },
+  {
+    "id": "grocery-list",
+    "title": "Smart Grocery List",
+    "languages": ["Java"],
+    "description": "A robust object-oriented item scheduler, compiler optimizer, and database visualizer built using strict Model-View-Controller architecture.",
+    "tags": ["Java Swing", "Algorithms", "Relational Models", "OOP Patterns"],
+    "github": "https://github.com/skengzyy/grocery-list",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/grocery-list?embed=1&theme=dark&view=editor",
+    "linesOfCode": "1,940",
+    "commits": "12",
+    "archType": "MVC Client Application",
+    "cloneCmd": "git clone https://github.com/skengzyy/grocery-list.git"
+  },
+  {
+    "id": "perception",
+    "title": "Cognitive Perception AI",
+    "languages": ["Python"],
+    "description": "An image recognition and neural processing prototype utilizing computer vision pipelines to run mathematical image classifications.",
+    "tags": ["Machine Learning", "Computer Vision", "Python AI", "Classification"],
+    "github": "https://github.com/skengzyy/Perception",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/Perception?embed=1&theme=dark&view=editor",
+    "linesOfCode": "850",
+    "commits": "8",
+    "archType": "ML Evaluation Script",
+    "cloneCmd": "git clone https://github.com/skengzyy/Perception.git"
+  },
+  {
+    "id": "jenkins-pipeline",
+    "title": "DevOps Jenkins Pipeline",
+    "languages": ["Python", "Shell"],
+    "description": "Automated continuous integration and deployment script triggering webhook notifications, status pings, and real-time execution logs.",
+    "tags": ["CI/CD Integration", "DevOps Automation", "Discord Webhooks", "Log Parser"],
+    "github": "https://github.com/skengzyy/DEZSYS_JENKINS_HELLOSPENCER",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/DEZSYS_JENKINS_HELLOSPENCER?embed=1&theme=dark&view=editor",
+    "linesOfCode": "620",
+    "commits": "15",
+    "archType": "Automation Script",
+    "cloneCmd": "git clone https://github.com/skengzyy/DEZSYS_JENKINS_HELLOSPENCER.git"
+  },
+  {
+    "id": "datastream",
+    "title": "Real-time Data Stream",
+    "languages": ["Python", "Java", "SQL"],
+    "description": "Distributed telemetry analysis ingestion hub aggregating live server load, system event logs, and query profiles.",
+    "tags": ["Ingestion Inbound", "Telemetry Sync", "Database Querying", "Logging"],
+    "github": "https://github.com/skengzyy/DataSTream",
+    "embedUrl": "https://stackblitz.com/github/skengzyy/DataSTream?embed=1&theme=dark&view=editor",
+    "linesOfCode": "3,110",
+    "commits": "24",
+    "archType": "Event-Driven Stream",
+    "cloneCmd": "git clone https://github.com/skengzyy/DataSTream.git"
+  }
+]
